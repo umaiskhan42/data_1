@@ -1,0 +1,5 @@
+Shot,FrameId,Timestamp,VideoName
+serve,19,0:00:03.000,sample.mp4
+serve,29,0:00:03.000,sample.mp4
+serve,39,0:00:03.000,sample.mp4
+serve,59,0:00:03.000,sample.mp4

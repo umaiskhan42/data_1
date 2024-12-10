@@ -1,0 +1,14 @@
+Shot,FrameId,Timestamp,VideoName
+serve,521,0:00:16.700000,sample-full.mp4
+serve,537,0:00:16.966667,sample-full.mp4
+serve,547,0:00:17.133333,sample-full.mp4
+serve,549,0:00:17.166667,sample-full.mp4
+boast,575,0:00:17.600000,sample-full.mp4
+boast,585,0:00:17.766667,sample-full.mp4
+cross_court,593,0:00:17.900000,sample-full.mp4
+cross_court,601,0:00:18.033333,sample-full.mp4
+cross_court,605,0:00:18.100000,sample-full.mp4
+rail,619,0:00:18.333333,sample-full.mp4
+rail,625,0:00:18.433333,sample-full.mp4
+rail,629,0:00:18.500000,sample-full.mp4
+rail,635,0:00:18.600000,sample-full.mp4
